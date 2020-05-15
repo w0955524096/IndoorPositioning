@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.silence.proximitybeacon.MainActivity
+ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:12:9-60
+	android:name
+		ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:12:19-47
+activity#com.example.silence.proximitybeacon.SplashScreenActivity
+ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:14:19-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/silence/AndroidStudioProjects/ProximityBeacon/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:11:22-71
+uses-permission-sdk-23
+ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:13:5-88
+	android:name
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:13:29-85
+uses-permission#android.permission.INTERNET
+ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:16:22-76
+uses-feature#android.hardware.bluetooth_le
+ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:19:9-53
+service#com.estimote.sdk.service.BeaconService
+ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:24:13-66
+service#com.estimote.sdk.repackaged.dfu_v0_6_1.no.nordicsemi.android.dfu.DfuBaseService
+ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:26:9-115
+	android:name
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:26:18-112
+activity#com.estimote.sdk.DefaultRequirementsCheckerCallback$Activity
+ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:28:9-30:56
+	android:theme
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:30:13-53
+	android:name
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:29:13-88
+receiver#com.estimote.sdk.service.BeaconService$ScanAlarmBroadcastReceiver
+ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:32:9-102
+	android:name
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:32:19-99
+service#com.estimote.sdk.connection.internal.DeviceConnectionProviderService
+ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [ProximityBeacon:estimote-sdk:unspecified] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/ProximityBeacon/estimote-sdk/unspecified/AndroidManifest.xml:35:13-96
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.1.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] /home/silence/AndroidStudioProjects/ProximityBeacon/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:22:13-58

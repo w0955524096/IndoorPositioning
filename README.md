@@ -10,5 +10,5 @@
 - bluetooth
 - unity
 
-## 自訂項目
+## 參數設定
 -

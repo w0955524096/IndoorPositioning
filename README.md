@@ -12,4 +12,4 @@
 2. 按下開始按鈕後則會進行定位
 
 ## 螢幕快照
-![](https://i.imgur.com/JyMGA1l.png)
+![](https://i.imgur.com/u8kwpBU.png)
